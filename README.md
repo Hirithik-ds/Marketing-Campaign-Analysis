@@ -12,6 +12,21 @@ They have given a sample of data from their databases. You have to work on some 
 pain points of the marketing team like consumer growth, lead conversions, etc. as well as help
 them work on new set of campaigns.
 
+
+# The data which company provided are:
+- Customer Table
+- City Data
+- Item
+- CouponMapping
+- Campaign
+- CustomerTransactionData
+
+
+
 **CAMPAIGN SCHEMA**
 
 ![image](https://github.com/user-attachments/assets/349b1df0-22f8-45df-a0c8-537156bf62bd)
+
+
+This is the schema where we have created the relationship between the tables **( STAR SCHEMA )**.
+
