@@ -13,7 +13,7 @@ pain points of the marketing team like consumer growth, lead conversions, etc. a
 them work on new set of campaigns.
 
 
-# The data which company provided are:
+**The data which company provided are:**
 - Customer Table
 - City Data
 - Item
@@ -22,6 +22,10 @@ them work on new set of campaigns.
 - CustomerTransactionData
 
 
+**Objectives:**
+- To explore and analyze data related to Marketing Campaign.
+- To identify trends and patterns in customer purchasing behavior.
+- To generate insights that can inform marketing strategies and inventory management.
 
 **CAMPAIGN SCHEMA**
 
@@ -29,4 +33,12 @@ them work on new set of campaigns.
 
 
 This is the schema where we have created the relationship between the tables **( STAR SCHEMA )**.
+
+
+**Analysis Summary:**
+
+
+
+
+
 
