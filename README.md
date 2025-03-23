@@ -35,7 +35,7 @@ them work on new set of campaigns.
 This is the schema where we have created the relationship between the tables **( STAR SCHEMA )**.
 
 
-**Analysis Summary:**
+
 
 
 
